@@ -12,16 +12,26 @@
     {
         "id": 1464988635157,
         "author": "ben",
-        "text": "*abc*"
+        "text": "*abc* 123"
     },
     {
         "id": 1464988636500,
         "author": "ben",
-        "text": "*abc*"
+        "text": "*abc* woeifjwef"
     },
     {
         "id": 1464988717637,
         "author": "evil",
         "text": "<a href=\"javascript:alert(1)\">alert(1)</a>"
+    },
+    {
+        "id": 1475871802860,
+        "author": "erg",
+        "text": "werwer"
+    },
+    {
+        "id": 1475871806673,
+        "author": "vwer",
+        "text": "qweqwe"
     }
 ]
